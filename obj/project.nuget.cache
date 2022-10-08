@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+R8t5luXJ2TwMgq1Udlc+duC4TEJ0S0+0iown1eZmNZ3WzAiY/Bj5xkXPBYeGjqhEOoLhnBd1eLD+gOasT2kMA==",
+  "success": true,
+  "projectFilePath": "/Users/pabloj.pena/Desktop/CSCI39537 (Intro to APIs)/Activity5/Activity5.csproj",
+  "expectedPackageFiles": [
+    "/Users/pabloj.pena/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
